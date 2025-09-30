@@ -6,4 +6,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return "Hello, World! The CI/CD Pipeline Worked! Version 2.0"
+    return "Hello, World! The CI/CD Pipeline Worked! Version 3.0"
